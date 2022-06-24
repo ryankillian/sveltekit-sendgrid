@@ -8,3 +8,5 @@ Needs a .env file project directory with these keys.
 API_KEY
 SENDER_NAME
 SENDER_EMAIL
+
+Deployed and tested successfully on Vercel.
